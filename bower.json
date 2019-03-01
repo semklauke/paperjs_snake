@@ -1,0 +1,36 @@
+{
+  "name": "snakes",
+  "authors": [
+    "Sem Klaue <privat@semklauke.de>"
+  ],
+  "description": "PaperJS Test",
+  "main": [
+    "index.html",
+    "canvas.js"
+  ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "paperjs"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/semklauke/paperjs_snakes.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "paper": "^0.12.0"
+  }
+}
